@@ -1,0 +1,17 @@
+{
+  "name": "convert_num_to_word_az_salimov2",
+  "version": "1.0.0",
+  "description": "This package contains the function which converts given numbers to azerbaijany language ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convert",
+    "nums",
+    "to",
+    "words"
+  ],
+  "author": "Javid Salimov",
+  "license": "ISC"
+}
